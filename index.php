@@ -1,6 +1,6 @@
 <?php
-    $name = "Kristine joy";
-    $role = "Student";
+    $name = "Aldrin";
+    $role = "Driver";
 ?>
 <!DOCTYPE html>
 <html>
