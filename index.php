@@ -1,5 +1,5 @@
 <?php
-    $name = "Paul";
+    $name = "Paul John";
     $role = "Body Guard";
 ?>
 <!DOCTYPE html>
